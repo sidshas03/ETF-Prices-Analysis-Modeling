@@ -21,16 +21,18 @@ Model evaluation using metrics like R², MAE, confusion matrix
 Getting Started
 Prerequisites
 Install required libraries:
-
-bash
-Copy
-Edit
 pip install pandas numpy matplotlib seaborn scikit-learn
-Running the Notebook
-Run the Jupyter notebook using:
 
+Running the Notebook
+
+Run the Jupyter notebook using:
 jupyter notebook
+
 Open ETF Price Analysis & Modeling and follow the cells sequentially.
 
 Dataset
 The project uses a CSV file named ETF prices.csv. Ensure this file is in the correct directory or update the path in the notebook.
+The dataset is sourced from Kaggle:
+
+You can Download from:
+👉 [Index Funds Challenge – Kaggle Dataset](https://www.kaggle.com/code/mbmlearner/index-funds-challenge/input)
